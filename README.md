@@ -11,7 +11,7 @@ ThinkPHP 6.0
 - 后端:
   - 控制器继承BaseApi 然后__construct(User $model) $model:需要查询的model
   - 返回字段注释文档(model可自动生成,往下看) xxx.com/api/doc?model=\app\common\model\User
-  
+  ![img_1.png](img_1.png)
 - 前端:
 - 1.列表
 - 请求路径:index
