@@ -52,13 +52,13 @@ id : 排序字段  desc 倒序  asc 顺序
 - 请求路径:view
 - 请求方法:get
 - 参数:id
-- 参考:   {{url}}/api/v1/test/view?id=1
+- 参考:   {{url}}/api/v1/test/view/1
 
 3.删除
 - 请求路径:delete
 - 请求方法:delete
 - 参数:id
-- 参考:   {{url}}/api/v1/test/delete?id=1
+- 参考:   {{url}}/api/v1/test/delete/1
 
 ### 2.队列
 - 需安装rabbitMq
